@@ -1,4 +1,4 @@
-<p align="center"><u>This text is centered.</u></p>
+<p align="center"><u>Hi 👋, I'm Vedanth K N</u></p>
 
 <!--
 **vedanth-kn/vedanth-kn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
