@@ -1,4 +1,4 @@
-## Hi there 👋
+<p align="center"><u>This text is centered.</u></p>
 
 <!--
 **vedanth-kn/vedanth-kn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
