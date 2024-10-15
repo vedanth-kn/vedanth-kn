@@ -8,6 +8,6 @@ I am currently in the final year of my Bachelor of Engineering in Computer Scien
 Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning  **Frontend Development**
-- 📑 Chech out my resume here 
-- 📫 Reach out to me at knvedanth@gmailcom>
+- 📑 Chech out my resume here [My Resume]([https://example.com/resume](https://drive.google.com/file/d/1ZATWpw0njjyrsUfMcD9X49K7O5c1LF3b/view?usp=drivesdk))
+- 📫 Reach out to me at [knvedanth@gmailcom](knvedanth@gmailcom)
 
