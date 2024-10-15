@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vedanth K N</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A aspiring Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedanth-kn&label=Profile%20views&color=0e75b6&style=flat" alt="vedanth-kn" /> </p>
 
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Frontend Development** and **NLP**
 
 - 📑 Check out my resume here [My Resume](https://drive.google.com/file/d/1ZATWpw0njjyrsUfMcD9X49K7O5c1LF3b/view?usp=drivesdk)
 
