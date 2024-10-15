@@ -1,4 +1,4 @@
-<h1 align="center"><u>Hi 👋, I'm Vedanth K N</u></h1>
+<h1 align="center">Hi 👋, I'm Vedanth K N</h1>
 
 I am currently in the final year of my Bachelor of Engineering in Computer Science and Engineering at G M Institute of Technology. I aspire to become a data scientist by acquiring comprehensive knowledge and practical skills in this dynamic field.
 
