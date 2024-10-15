@@ -9,7 +9,5 @@ Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning  **Frontend Development**
 - 📑 Chech out my resume here 
-- 📫 Reach out to me at <a heref: knvedanth@gmailcom>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Reach out to me at knvedanth@gmailcom>
 
