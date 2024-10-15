@@ -31,9 +31,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/vedanth-kn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vedanth-kn" height="30" width="40" /></a>
-<a href="https://twitter.com/vedanthkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedanthkn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vedanth-kn-datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedanth-kn-datascientist" height="30" width="40" /></a>
-<a href="https://medium.com/@vedanthkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vedanthkn" height="30" width="40" /></a>
-<a href="/https://rss.com/blob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.com/blob" height="30" width="40" /></a>
+<a href="https://instagram.com/itz__vedanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz__vedanth" height="30" width="40" /></a>
+<a href="https://fb.com/varun.vedanth.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="varun.vedanth.90" height="30" width="40" /></a>
+<a href="https://x.com/vedanth_kn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedanthkn" height="30" width="40" /></a>
 </p>
