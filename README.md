@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Vedanth K N</h1>
-<h3 align="center">A aspiring Data Scientist from India</h3>
+<h3 align="center">Passionate About Creating Scalable Web & Mobile Applications with Modern Tech and AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedanth-kn&label=Profile%20views&color=0e75b6&style=flat" alt="vedanth-kn" /> </p>
 
 
-- 🌱 I’m currently learning **Frontend Development** and **NLP**
+- 🌱 I’m currently learning **Frontend Development**
 
 - 📑 Check out my resume here [My Resume](https://drive.google.com/file/d/1ZATWpw0njjyrsUfMcD9X49K7O5c1LF3b/view?usp=drivesdk)
 
 - 👨‍💻 All of my projects are available at [https://github.com/vedanth-kn](https://github.com/vedanth-kn)
 
-- 💬 Ask me about **Machine Learning, Deep Learning**
+- 💬 Ask me about **Java Script, React**
 
 - 📫 How to reach me **knvedanth@gmail.com**
 
